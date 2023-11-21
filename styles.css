@@ -14,7 +14,9 @@ body {
   }
   .flavor{
     text-align: left;
+    width: 49%;
   }
   .price{
     text-align: right;
+    width: 49%;
   }
