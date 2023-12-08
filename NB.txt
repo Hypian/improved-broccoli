@@ -1,4 +1,4 @@
 the a can be used with hover active and visited for user friendly experience
 a:hover to change the color of a text when the mouse is hovering over it
 a:active when clicked
-a:visited when the site was visited
+a:visited when the site was visite
